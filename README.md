@@ -1,6 +1,10 @@
 # leetle-solutions-assembly
 
-Leetle solutions in assembly
+**I don't plan to do all days as i dont have time for it, feel free to open a pr if you have done any of days that i am missing. **
+
+# Leetle solutions in assembly
+
+## How to run
 
 to run you can simply do this (replace the day number):
 
